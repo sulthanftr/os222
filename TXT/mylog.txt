@@ -1,7 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 30 L87 Dinner
-ZCZC W00 15 L01 Browsing the OS SCELE page
-ZCZC W00 15 L03 Initial commit of os222
-ZCZC W00 5 L41 filling TXT/mylog.txt
+ZCZC W00 15 L01 SCELE related
+ZCZC W00 15 L03 GitHub and git related
+ZCZC W00 10 L41 TXT/mylog.txt related
+ZCZC W00 50 L04 GitHub Pages related
