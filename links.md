@@ -3,12 +3,11 @@ permalink: LINKS/
 ---
 <span style="font-style:italic; font-size:32px; font-family:timesnewroman;">by SULTHANFTR</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/sulthanftr.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[HOME](https://sulthanftr.github.io/os222/) ---
+[LOG](https://sulthanftr.github.io/os222/TXT/mylog.txt) ---
+[TARBALL](https://os.vlsm.org/Log/sulthanftr.tar.bz2.txt) ---
+[GitHub](https://github.com/sulthanftr/os222) ---
+[LINKS](https://sulthanftr.github.io/os222/LINKS/)
 <br>
 <hr>
 
