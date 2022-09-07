@@ -1,6 +1,6 @@
 ---
 ---
-<span style="font-style:italic; font-weight:bold; font-size:48px; font-family:TimesNewRoman;">by SULTHANFTR</span>
+<span style="font-style:italic; font-size:32px; font-family:TimesNewRoman;">by SULTHANFTR</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
