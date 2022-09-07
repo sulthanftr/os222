@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="font-style:italic; font-size:larger;">By SULTHANFTR</span>
+<span style="font-style:italic; font-weight:bold; font-size:larger; font-family:timesnewroman;">By SULTHANFTR</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
