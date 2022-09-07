@@ -9,4 +9,5 @@ ZCZC W00 200 L02 ZOOM classes
 ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 90 L05 Quiz related including studying
 ZCZC W00 15 L62 Installing a VirtualBox Debian Guest
-ZCZC W01 70 L27 Trying SSH, putty, winscp
+ZCZC W01 40 L62 Installing a VirtualBox Debian Guest
+ZCZC W01 40 L27 Trying SSH, putty, winscp
