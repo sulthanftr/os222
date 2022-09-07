@@ -11,4 +11,5 @@ ZCZC W00 90 L05 Quiz related including studying
 ZCZC W00 15 L62 Installing a VirtualBox Debian Guest
 ZCZC W01 40 L62 Installing a VirtualBox Debian Guest
 ZCZC W01 40 L27 Trying SSH, putty, winscp
-ZCZC W01 90 L11 Assignment #01
+ZCZC W01 140 L11 Assignment #01
+ZCZC W01 20 L04 GitHub Pages related
