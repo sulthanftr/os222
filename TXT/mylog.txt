@@ -15,3 +15,9 @@ ZCZC W01 200 L02 ZOOM classes
 ZCZC W01 140 L11 Assignment #01
 ZCZC W01 20 L04 GitHub Pages related
 ZCZC W01 90 L05 Quiz & studying
+ZCZC W02 200 L02 ZOOM classes
+ZCZC W02 150 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 120 L12 Assignment #02
+ZCZC W02 10 L41 TXT/mylog.txt related
+ZCZC W02 10 L04 GitHub Pages related
