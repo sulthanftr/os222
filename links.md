@@ -12,14 +12,18 @@ permalink: LINKS/
 <hr>
 
 # LINKS
-## Week 01
+## Week 00
 1. [Linux in 100 seconds](https://youtu.be/rrB13utjYV4)<br>
 A quick start on what Linux is.
 
-2. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)<br>
+2. [The Wierd History of Linux](https://youtu.be/ShcR4Zfc6Dw)<br>
+Self explanatory. It also explains what a distro is and the history of Debian, the distro we will be using in this course.
+
+## Week 01
+1. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)<br>
 Quick yet very helpful overview of Bash, the command line shell that you encounter when you open the terminal on most Unix operating systems, like MacOS and Linux.
 
-3. [Setting Bash as default terminal in VSCode.](https://stackoverflow.com/a/50527994)<br>
+2. [Setting Bash as default terminal in VSCode.](https://stackoverflow.com/a/50527994)<br>
 If you want to learn to program .sh files in the already comfortable IDE.
 
 ## Week 02
