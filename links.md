@@ -13,13 +13,13 @@ permalink: LINKS/
 
 # LINKS
 ## Week 01
-1.[Linux in 100 seconds](https://youtu.be/rrB13utjYV4)<br>
+1. [Linux in 100 seconds](https://youtu.be/rrB13utjYV4)<br>
 A quick start on what Linux is.
 
-1. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)<br>
+2. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)<br>
 Quick yet very helpful overview of Bash, the command line shell that you encounter when you open the terminal on most Unix operating systems, like MacOS and Linux.
 
-2. [Setting Bash as default terminal in VSCode.](https://stackoverflow.com/a/50527994)<br>
+3. [Setting Bash as default terminal in VSCode.](https://stackoverflow.com/a/50527994)<br>
 In you want to learn to program .sh files in the already comfortable IDE.
 
 ## Week 02
