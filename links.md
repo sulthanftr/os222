@@ -20,7 +20,7 @@ A quick start on what Linux is.
 Quick yet very helpful overview of Bash, the command line shell that you encounter when you open the terminal on most Unix operating systems, like MacOS and Linux.
 
 3. [Setting Bash as default terminal in VSCode.](https://stackoverflow.com/a/50527994)<br>
-In you want to learn to program .sh files in the already comfortable IDE.
+If you want to learn to program .sh files in the already comfortable IDE.
 
 ## Week 02
 1. [Chmod Command in Linux (File Permissions)](linuxize.com/post/chmod-command-in-linux)<br>
