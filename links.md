@@ -36,3 +36,6 @@ An overview of the C programming language that powers OS kernels such as Linux, 
 ## Week 03
 1. [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4)<br>
 Yet another Fireship vid. It explains how the Linux file system works and is relevant to this week's topic.
+
+2. [Linux Networking using NFS](https://youtu.be/5SoCOnU3J34)<br>
+This video explains what NFS or Network File System is and how to implement it in our Linux virtual machine.
