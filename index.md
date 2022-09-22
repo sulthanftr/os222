@@ -1,17 +1,13 @@
 ---
 ---
 <span style="font-style:italic; font-size:32px; font-family:TimesNewRoman;" align="center">SULTHANFTR</span> <br>
-<p align="center">
-  ![genuine_win98_machine](https://res.cloudinary.com/dbev4mnac/image/upload/v1663861909/genuine_win98_machine.jpg)
-</p>
+<p align="center"/>![genuine_win98_machine](https://res.cloudinary.com/dbev4mnac/image/upload/v1663861909/genuine_win98_machine.jpg)
 <br><br>
-<p align="center">
-  [HOME](https://sulthanftr.github.io/os222/) ---
-  [LOG](https://sulthanftr.github.io/os222/TXT/mylog.txt) ---
-  [TARBALL](https://os.vlsm.org/Log/sulthanftr.tar.bz2.txt) ---
-  [GitHub](https://github.com/sulthanftr/os222) ---
-  [LINKS](https://sulthanftr.github.io/os222/LINKS/)
-</p>
+[HOME](https://sulthanftr.github.io/os222/) ---
+[LOG](https://sulthanftr.github.io/os222/TXT/mylog.txt) ---
+[TARBALL](https://os.vlsm.org/Log/sulthanftr.tar.bz2.txt) ---
+[GitHub](https://github.com/sulthanftr/os222) ---
+[LINKS](https://sulthanftr.github.io/os222/LINKS/)
 <br>
 <hr>
 <br>
