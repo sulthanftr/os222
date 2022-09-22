@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="font-style:italic; font-size:32px; font-family:timesnewroman;">by SULTHANFTR</span>
+<span style="font-style:italic; font-size:32px; font-family:timesnewroman;">SULTHANFTR</span>
 <br><br>
 [HOME](https://sulthanftr.github.io/os222/) ---
 [LOG](https://sulthanftr.github.io/os222/TXT/mylog.txt) ---
