@@ -1,6 +1,6 @@
 ---
 ---
-‎<p align="center">
+‎ ‎<p align="center">
 <span style="font-style:italic; font-size:32px; font-family:TimesNewRoman;">SULTHANFTR</span> <br>
 ![genuine_win98_machine](https://res.cloudinary.com/dbev4mnac/image/upload/v1663861909/genuine_win98_machine.jpg)
 <br><br>
