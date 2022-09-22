@@ -1,7 +1,7 @@
 ---
 ---
+<span style="font-style:italic; font-size:32px; font-family:TimesNewRoman;">SULTHANFTR</span>
 ![genuine_win98_machine](https://res.cloudinary.com/dbev4mnac/image/upload/v1663861909/genuine_win98_machine.jpg)
-<span style="font-style:italic; font-size:32px; font-family:TimesNewRoman;">by SULTHANFTR</span>
 <br><br>
 [HOME](https://sulthanftr.github.io/os222/) ---
 [LOG](https://sulthanftr.github.io/os222/TXT/mylog.txt) ---
