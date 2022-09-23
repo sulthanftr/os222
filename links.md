@@ -33,6 +33,9 @@ This tutorial covers how to use the chmod command to change access permissions o
 2. [C in 100 Seconds](youtube.com/watch?v=U3aXWizDbQ4)<br>
 An overview of the C programming language that powers OS kernels such as Linux, Windows, Mac, and many other low-level systems.
 
+3. [How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)<br>
+Self explanatory. We will be encrypting/decrypting a lot of files with GPG in this course.
+
 ## Week 03
 1. [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4)<br>
 Yet another Fireship vid. It explains how the Linux file system works and is relevant to this week's topic.
