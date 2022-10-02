@@ -42,3 +42,11 @@ Yet another Fireship vid. It explains how the Linux file system works and is rel
 
 2. [Linux Networking using NFS](https://youtu.be/5SoCOnU3J34)<br>
 This video explains what NFS or Network File System is and how to implement it in our Linux virtual machine.
+
+## Week 04
+1. [you will never ask about pointers again after watching this video](https://youtu.be/NcaiHcBvDR4)<br>
+One of the hardest things for new programmers to learn is pointers. Whether its single use pointers, pointers to other pointers, pointers to structures, something about the concept drives new programmers crazy. This video shows what a pointer is, as it applies to low level memory access in the C programming language.
+2. [Pointers in C Programming Language](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
+Concise explanation about what are pointers, how to use them, and pointer concepts.
+3. [Endianness Explained With an Egg](https://youtu.be/NcaiHcBvDR4)<br>
+Byte ordering, or boiled egg orientation, endianness is important! Dr Steve Bagley on the computer science topic named after something from an 18th century novel.
