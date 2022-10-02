@@ -36,6 +36,9 @@ An overview of the C programming language that powers OS kernels such as Linux, 
 3. [How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)<br>
 Self explanatory. We will be encrypting/decrypting a lot of files with GPG in this course.
 
+4. [How to Compress Files and Folders using xz and tar](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)<br>
+We may want to compress our files or folder before encrypting it. This link explains how to do exactly that.
+
 ## Week 03
 1. [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4)<br>
 Yet another Fireship vid. It explains how the Linux file system works and is relevant to this week's topic.
