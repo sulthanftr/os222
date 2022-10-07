@@ -53,3 +53,9 @@ One of the hardest things for new programmers to learn is pointers. Whether its 
 Concise explanation about what are pointers, how to use them, and pointer concepts.
 3. [Endianness Explained With an Egg](https://youtu.be/NcaiHcBvDR4)<br>
 Byte ordering, or boiled egg orientation, endianness is important! Dr Steve Bagley on the computer science topic named after something from an 18th century novel.
+
+## Week 05
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article explains what a virtual memory of an operating system is along with it's processes such as paging, trashing, and swapping.
+2. [Linux Memory Management](https://www.thegeekstuff.com/2012/02/linux-memory-management/)<br>
+An explanation of virtual memory and demand paging in Linux.
