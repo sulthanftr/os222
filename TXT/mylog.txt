@@ -34,3 +34,5 @@ ZCZC W04 100 L99 Face-to-face lecture
 ZCZC W05 100 L02 ZOOM class
 ZCZC W05 100 L99 Face-to-face lecture
 ZCZC W05 90 L15 Assignment #05
+ZCZC W05 60 L05 Quizzes
+ZCZC W05 80 L06 References/Books/Documents/Browsing/GSGS related
