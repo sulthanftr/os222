@@ -61,7 +61,7 @@ This article explains what a virtual memory of an operating system is along with
 An explanation of virtual memory and demand paging in Linux.
 
 ## Week 06
-1. [getppid() and getpid() in Linux](https://www.geeksforgeeks.org/getppid-getpid-linux/)
+1. [getppid() and getpid() in Linux](https://www.geeksforgeeks.org/getppid-getpid-linux/)<br>
 Related to returning process ID's. Both getppid() and getpid() are inbuilt functions defined in unistd.h C library.
-2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). 
