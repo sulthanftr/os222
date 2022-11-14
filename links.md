@@ -65,3 +65,9 @@ An explanation of virtual memory and demand paging in Linux.
 Related to returning process ID's. Both getppid() and getpid() are inbuilt functions defined in unistd.h C library.
 2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). 
+
+## Week 07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Processes Synchronization or Synchronization is the way by which processes that share the same memory space are managed in an operating system.
+2. [Locks, Mutexes, and Semaphores: Types of Synchronization Objects](https://www.justsoftwaresolutions.co.uk/threading/locks-mutexes-semaphores.html)<br>
+Different types of synchronization objects such as locks, mutexes, semaphores, spinlocks, etc.
