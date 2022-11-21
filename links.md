@@ -16,7 +16,10 @@ permalink: LINKS/
 1. [Linux in 100 seconds](https://youtu.be/rrB13utjYV4)<br>
 A quick start on what Linux is.
 
-2. [The Wierd History of Linux](https://youtu.be/ShcR4Zfc6Dw)<br>
+2. [The mind behind Linux | Linus Torvalds (TEDTalks)](https://youtu.be/o8NPllzkFhE)<br>
+In this rare interview with TED Curator Chris Anderson, Linus Torvalds, creator of Linux, discusses with remarkable openness the personality traits that prompted his unique philosophy of work, engineering and life.
+
+3. [The Wierd History of Linux](https://youtu.be/ShcR4Zfc6Dw)<br>
 Self explanatory. It also explains what a distro is and the history of Debian, the distro we will be using in this course.
 
 ## Week 01
