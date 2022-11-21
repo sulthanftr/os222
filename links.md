@@ -73,7 +73,7 @@ Processes Synchronization or Synchronization is the way by which processes that 
 Different types of synchronization objects such as locks, mutexes, semaphores, spinlocks, etc.
 
 ## Week 08
-1. [6: Compiling a Cross Toolchain - How to build LFS 11.2](https://youtu.be/0EwMnskxIZM)<br>
+1. [Week 08 Assignment: LFS 11.2 Chapter 5 Walktrough](https://youtu.be/0EwMnskxIZM)<br>
 Starting from this week we will be doing LFS. It's tedious, depends on who's asking, but this walkthrough makes it convenient to do.
 2. [Linux From Scratch 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
 For week 08, the assignment is to do chapter 1-5 of the LFS book. I beg you to MAKE SURE you're reading the CORRECT version of LFS. E.g. this semester we're doing LFS 11.2, but next semester the lecturer might tell you to do LFS 11.3.
