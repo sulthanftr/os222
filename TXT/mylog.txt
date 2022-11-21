@@ -44,3 +44,7 @@ ZCZC W07 200 L99 Face-to-face lecture
 ZCZC W07 200 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 30 L05 Quiz
 ZCZC W07 80 L17 Assignment #07
+ZCZC W08 200 L99 Face-to-face lecture
+ZCZC W08 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 60 L05 Quiz
+ZCZC W08 360 L18 Assignment #08
