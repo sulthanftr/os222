@@ -71,3 +71,9 @@ Fork system call is used for creating a new process, which is called child proce
 Processes Synchronization or Synchronization is the way by which processes that share the same memory space are managed in an operating system.
 2. [Locks, Mutexes, and Semaphores: Types of Synchronization Objects](https://www.justsoftwaresolutions.co.uk/threading/locks-mutexes-semaphores.html)<br>
 Different types of synchronization objects such as locks, mutexes, semaphores, spinlocks, etc.
+
+## Week 08
+1. [6: Compiling a Cross Toolchain - How to build LFS 11.2](https://youtu.be/0EwMnskxIZM)<br>
+Starting from this week we will be doing LFS. It's tedious, depends on who's asking, but this walkthrough makes it convenient to do.
+2. [Linux From Scratch 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+For week 08, the assignment is to do chapter 1-5 of the LFS book. I beg you to MAKE SURE you're reading the CORRECT version of LFS. E.g. this semester we're doing LFS 11.2, but next semester the lecturer might tell you to do LFS 11.3.
