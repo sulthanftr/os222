@@ -80,3 +80,9 @@ Different types of synchronization objects such as locks, mutexes, semaphores, s
 Starting from this week we will be doing LFS. It's tedious, depends on who's asking, but this walkthrough makes it convenient to do.
 2. [Linux From Scratch 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
 For week 08, the assignment is to do chapter 1-5 of the LFS book. I beg you to MAKE SURE you're reading the CORRECT version of LFS. E.g. this semester we're doing LFS 11.2, but next semester the lecturer might tell you to do LFS 11.3.
+
+## Week 09
+1. [How Do Hard Drives Work?](https://youtu.be/wI0upu9eVcw)<br>
+A short simple explanation of how spinning disks store and interpret binary data.
+2. [What are Drive Partitions?](https://youtu.be/AeUM4kR67XQ)<br>
+Linus the LTT guy explains what drive partitions are.
