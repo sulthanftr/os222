@@ -86,3 +86,9 @@ For week 08, the assignment is to do chapter 1-5 of the LFS book. I beg you to M
 A short simple explanation of how spinning disks store and interpret binary data.
 2. [What are Drive Partitions?](https://youtu.be/AeUM4kR67XQ)<br>
 Linus the LTT guy explains what drive partitions are.
+
+## Week 10
+1.  [Kernel I/O Subsystem in Operating System](https://www.geeksforgeeks.org/kernel-i-o-subsystem-in-operating-system/)<br>
+The kernel provides many services related to I/O. Several services such as scheduling, caching, spooling, device reservation, and error handling.
+2.  [C File Handling](https://www.programiz.com/c-programming/c-file-input-output)<br>
+In this tutorial, you will learn about file handling in C. You will learn to handle standard I/O in C using fprintf(), fscanf(), fread(), fwrite(), fseek() etc. with the help of examples.
