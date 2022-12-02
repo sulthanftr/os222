@@ -53,3 +53,7 @@ ZCZC W09 100 L02 ZOOM class
 ZCZC W09 60 L05 Quiz
 ZCZC W09 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W09 360 L19 Assignment #09
+ZCZC W10 360 L20 Assignment #10
+ZCZC W10 100 L99 Face-to-face lecture
+ZCZC W10 100 L02 ZOOM class
+ZCZC W10 60 L05 Quiz
